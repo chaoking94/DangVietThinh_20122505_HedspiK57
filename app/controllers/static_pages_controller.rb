@@ -9,7 +9,7 @@ class StaticPagesController < ApplicationController
   end
 
   def login
-    @title = "LogIn"
+    @title = "Log In"
   end
 
   def about
